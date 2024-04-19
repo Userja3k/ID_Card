@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID_Card", "ID_Card\ID_Card.csproj", "{886C98FC-575E-4C1D-A2EA-BD14831C58A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercaba_Resto", "..\Mercaba_Resto\Mercaba_Resto\Mercaba_Resto.csproj", "{7073A700-23B3-45E5-BAEF-89CF2AE199AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886C98FC-575E-4C1D-A2EA-BD14831C58A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886C98FC-575E-4C1D-A2EA-BD14831C58A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886C98FC-575E-4C1D-A2EA-BD14831C58A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886C98FC-575E-4C1D-A2EA-BD14831C58A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7073A700-23B3-45E5-BAEF-89CF2AE199AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7073A700-23B3-45E5-BAEF-89CF2AE199AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7073A700-23B3-45E5-BAEF-89CF2AE199AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7073A700-23B3-45E5-BAEF-89CF2AE199AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
